@@ -2,7 +2,7 @@
 
 This is a demo for **Polenta to go Around**, a website designed to fight food waste by linking users with restaraunts seeking to sell discounted food that would otherwise be discarded. Built with React on the frontend and Ruby on Rails on the backend.
 
-Requires [PtgA frontend](https://github.com/jmarthaller/food-waste-app-frontend) and [PtgA backend](https://github.com/svthiery/food-waste-app-backend).
+Requires [Polenta to go Around frontend](https://github.com/jmarthaller/food-waste-app-frontend) and [Polenta to go Around backend](https://github.com/svthiery/food-waste-app-backend).
 
 Created in partnership with Flatiron School cohort-mate [Sarah Thierry](https://github.com/svthiery). 
 
