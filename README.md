@@ -28,7 +28,7 @@ Users can search for a pickup opportunity based on the name of a dish.
 <br/><br/>
 <br/><br/>
 
-Users can filter picup opportunities based on the cuisine of a pickup.
+Users can filter pickup opportunities based on the cuisine of a pickup.
 
 ![polenta-filter](gifs/polenta-filter.gif)
 
